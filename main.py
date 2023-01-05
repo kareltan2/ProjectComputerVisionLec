@@ -11,6 +11,7 @@ from sklearn.svm import LinearSVC
 train_path = 'Dataset/Train'
 train_path_list = os.listdir(train_path)
 labels = train_path_list
+#testing
 
 image_list = []
 image_classes_list = []
